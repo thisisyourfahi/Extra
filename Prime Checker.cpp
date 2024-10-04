@@ -1,4 +1,4 @@
-// This code checks if the given number is a prime or not. 
+// This code checks if the given number is a prime or not, using a function.
 
 #include <bits/stdc++.h>
 using namespace std;
