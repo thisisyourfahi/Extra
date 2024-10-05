@@ -21,6 +21,5 @@ int main(){
     for(int i = x; i <= y; i++){
         cout << convert(i) << endl;
     }
-    
     return 0;
 }
